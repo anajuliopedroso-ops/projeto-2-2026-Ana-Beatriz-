@@ -1,3 +1,8 @@
 header{
-    
+    background-color: rgb(8, 127, 224);/*cor de fundo*/
+    color: rgb(11, 81, 211); /*cor da fonte*/
+}
+main{
+    background-color: rgb(122, 114, 238);
+    color: rgb(12, 29, 75);
 }
