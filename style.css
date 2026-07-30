@@ -9,7 +9,7 @@ border: 5px solid black;
     
 }
 main{
-    background-color: rgb(129, 0, 0);/*cor de fundo do texto principal*/
+    background-color: rgb(211, 116, 116);/*cor de fundo do texto principal*/
     color: rgb(0, 12, 46);/*cor da fonte*/
     text-align: center; /*alinhamento do texto*/
     max-width: 800px;/*largura maxima*/
