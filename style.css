@@ -14,6 +14,8 @@ main{
     text-align: center; /*alinhamento do texto*/
     max-width: 800px;/*largura maxima*/
     margin: 0 auto;/*margens*/
+    padding: 0px; /* espaçamento interno*/
+border: 5px solid black;
     
 }
 
