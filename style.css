@@ -10,7 +10,7 @@ border: 5px solid black;
 }
 main{
     background-color: rgb(129, 0, 0);/*cor de fundo do texto principal*/
-    color: rgb(12, 29, 75);/*cor da fonte*/
+    color: rgb(0, 12, 46);/*cor da fonte*/
     text-align: center; /*alinhamento do texto*/
     max-width: 800px;/*largura maxima*/
     margin: 0 auto;/*margens*/
@@ -19,7 +19,7 @@ main{
 
 footer{
     background-color: rgb(109, 2, 2);/* cor de fundo do radapé*/
-    color: rgb(14, 5, 66);/* cor da fonte*/
+    color: rgb(6, 0, 41);/* cor da fonte*/
      text-align: center;
     max: width 800px; 
     margin: 0 auto; 
