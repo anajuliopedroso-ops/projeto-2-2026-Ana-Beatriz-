@@ -5,7 +5,7 @@ header{
     max: width 800px; 
     margin: 0 auto; 
     padding: 16px; /* espaçamento interno*/
-
+border: 5px solid black;
     
 }
 main{
