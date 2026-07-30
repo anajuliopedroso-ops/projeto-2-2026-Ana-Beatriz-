@@ -1,6 +1,6 @@
 header{
     background-color: rgb(8, 127, 224);/*cor de fundo*/
-    color: rgb(2, 18, 48); /*cor da fonte*/
+    color: rgb(0, 0, 0); /*cor da fonte*/
     text-align: center;
     max: width 800px; 
     margin: 0 auto; 
@@ -9,7 +9,7 @@ border: 5px solid black;
     
 }
 main{
-    background-color: rgb(122, 114, 238);/*cor de fundo do texto principal*/
+    background-color: rgb(129, 0, 0);/*cor de fundo do texto principal*/
     color: rgb(12, 29, 75);/*cor da fonte*/
     text-align: center; /*alinhamento do texto*/
     max-width: 800px;/*largura maxima*/
@@ -17,6 +17,6 @@ main{
 }
 
 footer{
-    background-color: rgb(71, 68, 212);/* cor de fundo do radapé*/
+    background-color: rgb(109, 2, 2);/* cor de fundo do radapé*/
     color: rgb(14, 5, 66);/* cor da fonte*/
 }
