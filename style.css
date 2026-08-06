@@ -26,6 +26,9 @@ footer{
     max: width 800px; 
     margin: 0 auto; 
     padding: 0px; /* espaçamento interno*/
-border: 5px solid black;
-    
+    border: 5px solid black;  
 }
+ img{
+    width: 80px;/*largura*/
+    height: 80px; /*altura*/
+ }
