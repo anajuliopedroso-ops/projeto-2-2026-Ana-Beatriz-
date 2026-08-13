@@ -36,3 +36,7 @@ footer{
     width: 80px;/*largura*/
     height: 80px; /*altura*/
  }
+  div p {
+font-weight: bold;
+
+  }
