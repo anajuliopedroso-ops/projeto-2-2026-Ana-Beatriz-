@@ -16,7 +16,7 @@ main{
     margin: 0 auto;/*margens*/
     display: flex; /* habilita o uso do flex box*/
     flex-direction: row-reverse;/* orienta os elementos na horizontal*/
-    padding:16px;/* espaçamento interno*/
+    padding:0px;/* espaçamento interno*/
     border: 5px solid black;
     
 }
@@ -35,8 +35,8 @@ footer{
 }
 
  img{
-    width: 80px;/*largura*/
-    height: 80px; /*altura*/
+    width: 50px;/*largura*/
+    height: 50px; /*altura*/
  }
   .artigo-autor {
       font-weight: bold;
