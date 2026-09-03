@@ -4,7 +4,7 @@ header{
     text-align:center;
     max: width 800px; 
     margin: 0 auto; 
-    padding: 0px; /* espaçamento interno*/
+    padding: 16px; /* espaçamento interno*/
 border: 5px solid black;
     
 }
@@ -16,7 +16,7 @@ main{
     margin: 0 auto;/*margens*/
     display: flex; /* habilita o uso do flex box*/
     flex-direction: row-reverse;/* orienta os elementos na horizontal*/
-    padding:0px;/* espaçamento interno*/
+    padding:16px;/* espaçamento interno*/
     border: 5px solid black;
     
 }
@@ -27,16 +27,16 @@ footer{
      text-align:center;
     max: width 800px; 
     margin: 0 auto; 
-    padding: 0px; /* espaçamento interno*/
+    padding: 16px; /* espaçamento interno*/
     border: 5px solid black;  
     max-width: 800px;/*largura maxima*/
     display: flex; /* habilita o uso do flex box*/
-    margin: 0 auto;/*margens*/
+    
 }
 
  img{
-    width: 50px;/*largura*/
-    height: 50px; /*altura*/
+    width: 80px;/*largura*/
+    height: 80px; /*altura*/
  }
   .artigo-autor {
       font-weight: bold;
